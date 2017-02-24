@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/ron/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.1/classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="/Users/ron/Downloads/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-8dcdae85fdcc62a21e04d0247d658d4d342eca86.jar" />
+    </item>
+    <item
+        jar="/Users/ron/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/25.0.0/classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="6ac094121e75b4b87432beb9305d70c68ec6dcab">
+        <dex dex="/Users/ron/Downloads/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-4852319097400a64a74c3c6b2f9c8a3b71272d1a.jar" />
+    </item>
+    <item
+        jar="/Users/ron/Downloads/xyzreader/XYZReader/libs/volley.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="/Users/ron/Downloads/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/volley-415ea21c1ffcd96bc675210c4e944a1f603d319f.jar" />
+    </item>
+    <item
+        jar="/Users/ron/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/ron/Downloads/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-91b8743843302280f92929a7a40601c4d4d3b945.jar" />
+    </item>
+    <item
+        jar="/Users/ron/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/25.0.0/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="67355078cd30daae43f62ba47a4663ee6edb976e">
+        <dex dex="/Users/ron/Downloads/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-25.0.0-8926adfbca3b30bfb2ac3e1eb3404e4be4ae3b2c.jar" />
+    </item>
+    <item
+        jar="/Users/ron/Documents/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/ron/Downloads/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/support-annotations-25.1.1-e036264aecca22476c6f9a3099be361a8c50b3aa.jar" />
+    </item>
+    <item
+        jar="/Users/ron/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/ron/Downloads/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-1f15d2ab536957eed712a4d28b5d603fbfffa699.jar" />
+    </item>
+    <item
+        jar="/Users/ron/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/ron/Downloads/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/okio-1.6.0-c3814a561b1899ffed1b9585c84459d6ab3b3952.jar" />
+    </item>
+    <item
+        jar="/Users/ron/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/25.1.1/classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="/Users/ron/Downloads/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-9721854d1a82fe9fe0465354374ef4447839a1c0.jar" />
+    </item>
+    <item
+        jar="/Users/ron/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/ron/Downloads/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-31ac72a3b6c3cc1624f797124dd46a548440bed7.jar" />
+    </item>
+    <item
+        jar="/Users/ron/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/ron/Downloads/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-46eb60f51dc45ea755dcae23af948639dac3861b.jar" />
+    </item>
+    <item
+        jar="/Users/ron/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/ron/Downloads/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-a863f8a56547cdd7452cb1575e5203a251fa3a2d.jar" />
+    </item>
+    <item
+        jar="/Users/ron/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/ron/Downloads/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-fd775dc38ff56093b5b0124d80bda9bc96ae940f.jar" />
+    </item>
+    <item
+        jar="/Users/ron/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.0/classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="/Users/ron/Downloads/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-13f2c3d6be028a636fda3252863229ae0d8db754.jar" />
+    </item>
+    <item
+        jar="/Users/ron/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/ron/Downloads/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-97959473f33e82a1377e7e0ab2e65e86c02a887d.jar" />
+    </item>
+    <item
+        jar="/Users/ron/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/25.0.0/classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="672cceae26e9a8fcbd8e0eefe5fc351c50d2488a">
+        <dex dex="/Users/ron/Downloads/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-a314ed5ff59409f518249b17de444e48ec945aee.jar" />
+    </item>
+    <item
+        jar="/Users/ron/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/transition/25.1.1/classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="/Users/ron/Downloads/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-2e3033ba1404aa8c454781c1853f9e7c8a5baec8.jar" />
+    </item>
+    <item
+        jar="/Users/ron/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/ron/Downloads/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-8f678e89c8b4f65c7aa12289522004f7a20a20cc.jar" />
+    </item>
+    <item
+        jar="/Users/ron/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/ron/Downloads/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-79ecdb05d9ec783d8e1e9570bf3024924810d7cd.jar" />
+    </item>
+    <item
+        jar="/Users/ron/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.1.2/7052283359001bb108753cb0583a887d3bf94c82/okhttp-3.1.2.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="/Users/ron/Downloads/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/okhttp-3.1.2-734dc44cef7e59ce0ca31122f2a748e2b857cbd9.jar" />
+    </item>
+
+</items>
